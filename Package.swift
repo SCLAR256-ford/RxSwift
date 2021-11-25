@@ -41,7 +41,7 @@ extension Target {
 }
 
 let package = Package(
-  name: "RxSwift",
+  name: "SClarkRxSwift",
   platforms: [.iOS(.v9), .macOS(.v10_10), .watchOS(.v3), .tvOS(.v9)],
   products: ([
     [
